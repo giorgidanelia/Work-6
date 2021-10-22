@@ -1,0 +1,4 @@
+@keyframes mustache-animation {
+  from {right: 0;}
+  to {right: 600px;}
+}

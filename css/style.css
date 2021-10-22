@@ -1,0 +1,33 @@
+.div-box {
+	background-color:red;
+	width: 100%;
+}
+
+.stalin-div {
+	width: 600px;
+	position: relative;	
+	margin: 0 auto;
+	
+}
+
+.mustache-div {
+	display: inline-block;
+	position: absolute;
+	top:46%;
+	left: 52%;
+	transform: translate(-50%,-50%);
+	animation: mustache-animation 3s inherit linear ;
+	
+}
+
+.mustache-img:hover {
+
+
+	transform: rotate(45deg);
+}
+
+.stalin-img {
+	width: 600px;
+
+}
+
